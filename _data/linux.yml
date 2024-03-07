@@ -25,7 +25,7 @@ bookmarks:
   desc:  
   tags:
   - linux
-- title: OverTheWire: Wargames
+- title: OverTheWire Wargames
   site: https://overthewire.org/wargames/
   desc:  
   tags:
@@ -170,7 +170,7 @@ bookmarks:
   desc:  
   tags:
   - linux
-- title: TOPP: The Open Problems Project
+- title: TOPP The Open Problems Project
   site: https://topp.openproblem.net/
   desc:  
   tags:
@@ -185,7 +185,7 @@ bookmarks:
   desc:  
   tags:
   - linux
-- title: SankeyMATIC: Make Beautiful Flow Diagrams
+- title: SankeyMATIC Make Beautiful Flow Diagrams
   site: https://sankeymatic.com/
   desc:  
   tags:

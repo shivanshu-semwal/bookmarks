@@ -10,8 +10,8 @@ bookmarks:
   desc:  
   tags:
   - js
-  -regex
-- title: RegExr: Learn, Build, & Test RegEx
+  - regex
+- title: RegExr Learn, Build, & Test RegEx
   site: https://regexr.com/
   desc:  
   tags:
