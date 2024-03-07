@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ site.title }} - v2</title>
+    <link rel="stylesheet" href="{{ "/assets/css/v2.css" | relative_url }}">
+  </head>
+  <body>
+    <h1>Bookmarks</h1>
+
+    <p>
+      Operation:
+      <label id="union"><input type="radio" name="operation" value="union" id="op-union" checked>Union</label>
+      <label id="intersection"><input type="radio" name="operation" value="intersection" id="op-inter">Intersection</label>
+    </p>
+
+    {% assign collections = "" | split: ',' %}
+    {% assign collections = collections | push: 'other' %}
+    
+    {% for category_hash in site.data %}
+      {% assign category = category_hash[1] %}
+      {%- assign bookmarks = category.bookmarks -%}
+      {% for item in bookmarks %}
+        {% for tag in item.tags %}
+          {% assign collections = collections | push: tag %}
+        {% endfor %}
+      {% endfor %}
+    {% endfor %}
+
+    {% assign collections = collections | uniq %}
+
+    <div class="categories">
+        {% for collection in collections %}
+        <div class="category">
+            <input type="checkbox" value="{{ collection }}" id="cat-{{ collection }}">
+            <label for="cat-{{ collection }}">{{ collection }}</label>
+        </div>
+        {% endfor %}
+    </div>
+
+    <ul>
+      {% for category_hash in site.data %}
+        {% assign category = category_hash[1] %}
+        {%- assign bookmarks = category.bookmarks -%}
+        {% for item in bookmarks %}
+        <li class="bookmark {% for tag in item.tags %}{{ tag }} {% endfor %} {% if item.tags == nil %} other {% endif %}">
+            <b><span class="title">{{ item.title }}</span></b>
+            <span class="link">- <a href="{{ item.site }}">{{ item.site }}</a></span> <br>
+            <i>{{ item.desc }}</i><br>
+            {% for tag in item.tags %}<code>#{{ tag }}</code> {% assign collection = collection | push: tag %}{% endfor %}
+        </li>
+        {% endfor %}
+      {% endfor %}
+    </ul>
+
+    <script src="/assets/js/v2.js" defer></script>
+  </body>
+</html>

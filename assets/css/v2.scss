@@ -1,0 +1,26 @@
+---
+---
+
+@import "base";
+
+.bookmark {
+    display: none;
+    /* default hidden */
+}
+
+.options input {
+    visibility: hidden;
+    position: absolute;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+    display: flow-root list-item;
+}
+
+.categories {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
