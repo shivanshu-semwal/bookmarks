@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/v1.css" | relative_url }}">
+  </head>
+  <body>
+    {% for category_hash in site.data %}
+    {% assign category = category_hash[1] %}
+    <div>
+        <h2> {{ category.title }}</h2>
+        <ul>
+            {% for bookmark in category.bookmarks %}
+                <li><a href="{{ bookmark.site }}">{{ bookmark.title }}</a> : {{ bookmark.desc }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+  </body>
+</html>
