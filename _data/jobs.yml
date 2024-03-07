@@ -1,0 +1,139 @@
+title: Jobs
+bookmarks:
+- title: services.india.gov.in
+  site: https://services.india.gov.in/
+  desc:  
+  tags:
+  - jobs
+- title: job microsoft
+  site: https://jobs.careers.microsoft.com/actioncenter/submitted
+  desc:  
+  tags:
+  - jobs
+- title: hnjobs.emilburzo.com
+  site: https://hnjobs.emilburzo.com/
+  desc:  
+  tags:
+  - jobs
+  - hackernews-jobs
+- title: kennytilton.github.io
+  site: https://kennytilton.github.io/whoishiring/
+  desc:  
+  tags:
+  - jobs
+  - hackernews-jobs
+- title: echo jobs
+  site: https://echojobs.io/search?q=&locations=Remote%2BIndia&page=1
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: findwork.dev
+  site: https://findwork.dev/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: remote-developer-jobs.com
+  site: https://www.remote-developer-jobs.com/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: JustRemote
+  site: https://justremote.co/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: remotists
+  site: https://remotists.com/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: Remote Leaf
+  site: https://remoteleaf.com/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: remotive.io
+  site: https://remotive.io/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: Remote OK
+  site: https://remoteok.com/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- jobs
+- title: NoCommute - Remote jobs delivered to your inbox
+  site: https://nocommute.substack.com/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: Entry Level Remote Job
+  site: https://entrylevelremotejob.com/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: We Work Remotely
+  site: https://weworkremotely.com/
+  desc:  
+  tags:
+  - jobs
+  - remote
+- title: Shine
+  site: https://www.shine.com/
+  desc:  
+  tags:
+  - jobs
+  - job-portals
+- title: Indeed
+  site: https://in.indeed.com/
+  desc:  
+  tags:
+  - jobs
+  - job-portals
+- title: Hirect
+  site: https://www.hirect.in/
+  desc:  
+  tags:
+  - jobs
+  - job-portals
+- title: CutShort
+  site: https://cutshort.io/
+  desc:  
+  tags:
+  - jobs
+  - job-portals
+- title: Angelist
+  site: https://angel.co/
+  desc:  
+  tags:
+  - jobs
+  - job-portals
+- title: InstaHyre
+  site: https://www.instahyre.com/
+  desc:  
+  tags:
+  - jobs
+  - job-portals
+- title: linkedin jobs
+  site: https://www.linkedin.com/jobs
+  desc:  
+  tags:
+  - jobs
+  - job-portals
+- title: moreThanFAANGM
+  site: https://github.com/Kaustubh-Natuskar/moreThanFAANGM
+  desc: Companies other than FANG
+  tags:
+  - jobs
+  - companies-list

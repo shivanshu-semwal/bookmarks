@@ -1,0 +1,17 @@
+title: Vim
+bookmarks:
+- title: vim plugins
+  site: https://vimawesome.com/
+  desc:  
+  tags:
+  - vim
+- title: vit cheat sheet
+  site: https://github.com/CodeChefVIT/resources
+  desc:  
+  tags:
+  - vim
+- title: vim learn
+  site: https://github.com/mhinz/vim-galore
+  desc:  
+  tags:
+  - vim

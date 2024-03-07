@@ -5,3 +5,15 @@ bookmarks:
   desc: excellent book on javascript
   tags:
   - js
+- title: Lookahead and lookbehind
+  site: https://javascript.info/regexp-lookahead-lookbehind
+  desc:  
+  tags:
+  - js
+  -regex
+- title: RegExr: Learn, Build, & Test RegEx
+  site: https://regexr.com/
+  desc:  
+  tags:
+  - js
+  - regex

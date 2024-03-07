@@ -1,0 +1,227 @@
+title: Linux
+bookmarks:
+- title: Linux Journal
+  site: https://www.linuxjournal.com/
+  desc:  
+  tags:
+  - linux
+- title: pidgin
+  site: https://www.pidgin.im/install/
+  desc:  
+  tags:
+  - linux
+- title: mission-center-devs / Mission Center · GitLab
+  site: https://gitlab.com/mission-center-devs/mission-center
+  desc:  
+  tags:
+  - linux
+- title: Linux Tutorials - Learn Linux Configuration - LinuxConfig.org
+  site: https://linuxconfig.org/
+  desc:  
+  tags:
+  - linux
+- title: Palette Switcher
+  site: https://paletteswitcher.bruyant.xyz/
+  desc:  
+  tags:
+  - linux
+- title: OverTheWire: Wargames
+  site: https://overthewire.org/wargames/
+  desc:  
+  tags:
+  - linux
+- title: play-sound-through-two-or-more-outputs-devices
+  site: https://askubuntu.com/questions/78174/play-sound-through-two-or-more-outputs-devices
+  desc:  
+  tags:
+  - linux
+- title: GNU Savannah
+  site: http://savannah.gnu.org/
+  desc:  
+  tags:
+  - linux
+- title: reddit to markdown
+  site: https://farnots.github.io/RedditToMarkdown/
+  desc:  
+  tags:
+  - linux
+- title: terminal color chooser
+  site: https://terminal.sexy/
+  desc:  
+  tags:
+  - linux
+- title: conky
+  site: http://conky.pitstop.free.fr/wiki/index.php5?title=Main_Page
+  desc:  
+  tags:
+  - linux
+- title: explain shell
+  site: https://www.explainshell.com/
+  desc:  
+  tags:
+  - linux
+- title: linux doc
+  site: https://linux.die.net/
+  desc:  
+  tags:
+  - linux
+- title: code gnu programs
+  site: http://www.maizure.org/projects/decoded-gnu-coreutils
+  desc:  
+  tags:
+  - linux
+- title: share dotfiles
+  site: http://dotshare.it/
+  desc:  
+  tags:
+  - linux
+- title: man pages
+  site: https://man7.org/index.html
+  desc:  
+  tags:
+  - linux
+- title: ricing
+  site: https://rizonrice.club/Rice:Resources
+  desc:  
+  tags:
+  - linux
+- title: suckless
+  site: https://suckless.org/
+  desc:  
+  tags:
+  - linux
+- title: linux doc
+  site: https://tldp.org/
+  desc:  
+  tags:
+  - linux
+- title: firefox customize
+  site: https://mrotherguy.github.io/firefox-csshacks/
+  desc:  
+  tags:
+  - linux
+- title: rice i3
+  site: https://thomashunter.name/i3-configurator/
+  desc:  
+  tags:
+  - linux
+- title: linux journey
+  site: https://linuxjourney.com/
+  desc:  
+  tags:
+  - linux
+- title: learn shell
+  site: https://cmdchallenge.com/
+  desc:  
+  tags:
+  - linux
+- title: One-liners | Basic | Cheat sheet | Linux Command Library
+  site: https://linuxcommandlibrary.com/basic/oneliners
+  desc:  
+  tags:
+  - linux
+- title: harmful software
+  site: http://harmful.cat-v.org/software/
+  desc:  
+  tags:
+  - linux
+- title: blog
+  site: https://cal-linux.com/tutorials/
+  desc:  
+  tags:
+  - linux
+- title: How to Install Latest MPV video player 0.35 in Debian 11, Ubuntu 22.04 | 20.04 - FOSTips
+  site: https://fostips.com/install-mpv-media-player-debian/
+  desc:  
+  tags:
+  - linux
+- title: Baloo - indexer
+  site: https://wiki.archlinux.org/title/Baloo
+  desc:  
+  tags:
+  - linux
+- title: APT Browse - Home
+  site: https://www.apt-browse.org/
+  desc:  
+  tags:
+  - linux
+- title: my-laptop-hardware
+  site: https://linux-hardware.org/?probe=806e14ad19
+  desc:  
+  tags:
+  - linux
+- title: List of applications/Other - ArchWiki
+  site: https://wiki.archlinux.org/title/List_of_applications/Other#Application_launchers
+  desc:  
+  tags:
+  - linux
+- title: Linux Man Pages
+  site: https://manpages.org/categories/6?page=3
+  desc:  
+  tags:
+  - linux
+- title: Blog
+  site: https://www.da.vidbuchanan.co.uk/blog/
+  desc:  
+  tags:
+  - linux
+- title: big list - Major unsolved problems in theoretical computer science? - Theoretical Computer Science Stack Exchange
+  site: https://cstheory.stackexchange.com/questions/174/major-unsolved-problems-in-theoretical-computer-science/251#251
+  desc:  
+  tags:
+  - linux
+- title: TOPP: The Open Problems Project
+  site: https://topp.openproblem.net/
+  desc:  
+  tags:
+  - linux
+- title: Algorithm Archive · Arcane Algorithm Archive
+  site: https://www.algorithm-archive.org/
+  desc:  
+  tags:
+  - linux
+- title: The Art of Integration | Physics Forums
+  site: https://www.physicsforums.com/insights/the-art-of-integration/
+  desc:  
+  tags:
+  - linux
+- title: SankeyMATIC: Make Beautiful Flow Diagrams
+  site: https://sankeymatic.com/
+  desc:  
+  tags:
+  - linux
+- title: Learn React JS - Full Course for Beginners - Tutorial 2019 - YouTube
+  site: https://www.youtube.com/watch?v=DLX62G4lc44
+  desc:  
+  tags:
+  - linux
+- title: Advanced Algorithms (COMPSCI 224) - YouTube
+  site: https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
+  desc:  
+  tags:
+  - linux
+- title: Learn JavaScript - Full Course for Beginners - YouTube
+  site: https://www.youtube.com/watch?v=PkZNo7MFNFg
+  desc:  
+  tags:
+  - linux
+- title: Python Django Web Framework - Full Course for Beginners - YouTube
+  site: https://www.youtube.com/watch?v=F5mRW0jo-U4
+  desc:  
+  tags:
+  - linux
+- title: lemmy - FOSSware
+  site: https://social.fossware.space/
+  desc:  
+  tags:
+  - linux
+- title: Linux Hardware Database
+  site: https://linux-hardware.org/
+  desc:  
+  tags:
+  - linux
+- title: ubuntu - How to get rid of the “scanning for btrfs file systems” at start-up? - Unix & Linux Stack Exchange
+  site: https://unix.stackexchange.com/questions/78535/how-to-get-rid-of-the-scanning-for-btrfs-file-systems-at-start-up
+  desc:  
+  tags:
+  - linux

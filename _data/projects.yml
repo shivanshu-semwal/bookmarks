@@ -1,0 +1,52 @@
+title: Projects
+bookmarks:
+- title: Projects | Handmade Network
+  site: https://handmade.network/projects
+  desc:  
+  tags:
+  - projects
+- title: gsoc timeline
+  site: https://developers.google.com/open-source/gsoc/timeline
+  desc:  
+  tags:
+  - projects
+- title: project-based-learning
+  site: https://github.com/practical-tutorials/project-based-learning
+  desc:  
+  tags:
+  - projects
+- title: path-finder
+  site: https://github.com/hisham-maged10/path-finder
+  desc:  
+  tags:
+  - projects
+- title: Pathfinding-Visualizer
+  site: https://github.com/clementmihailescu/Pathfinding-Visualizer
+  desc:  
+  tags:
+  - projects
+- title: make x
+  site: https://github.com/danistefanovic/build-your-own-x
+  desc:  
+  tags:
+  - projects
+- title: Before we begin - HTTP protocol and the web
+  site: https://codexpanse.com/courses/http/Before-we-begin.html
+  desc:  
+  tags:
+  - from-scratch
+- title: Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018 - YouTube
+  site: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+  desc:  
+  tags:
+  - from-scratch
+- title: Eloquent JavaScript
+  site: https://eloquentjavascript.net/
+  desc:  
+  tags:
+  - from-scratch
+- title: sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+  site: https://github.com/sdmg15/Best-websites-a-programmer-should-visit#computer-books
+  desc:  
+  tags:
+  - from-scratch
