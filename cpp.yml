@@ -1,0 +1,37 @@
+title: C++
+bookmarks:
+- title: cppreference.com
+  site: https://en.cppreference.com/w/
+  desc:  
+  tags:
+  - c++
+- title: c++ boqian
+  site: https://boqian.weebly.com/c-programming.html
+  desc:  
+  tags:
+  - c++
+- title: c++ format style
+  site: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+  desc:  
+  tags:
+  - c++
+- title: c++ algo
+  site: https://cp-algorithms.com/
+  desc:  
+  tags:
+  - c++
+- title: learn c++
+  site: https://www.learncpp.com/
+  desc:  
+  tags:
+  - c++
+- title: c++ quiz
+  site: https://cppquiz.org/
+  desc:  
+  tags:
+  - c++
+- title: a-step-by-step-crash-course-in-c-debugging-without-ide
+  site: https://www.incredibuild.com/blog/a-step-by-step-crash-course-in-c-debugging-without-ide
+  desc:  
+  tags:
+  - c++
