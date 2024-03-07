@@ -7,13 +7,17 @@
     <link rel="stylesheet" href="{{ "/assets/css/v1.css" | relative_url }}">
   </head>
   <body>
+    <h1>Bookmarks</h1>
     {% for category_hash in site.data %}
       {% assign category = category_hash[1] %}
       <div>
           <h2> {{ category.title }}</h2>
           <ul>
               {% for bookmark in category.bookmarks %}
-                  <li><a href="{{ bookmark.site }}">{{ bookmark.title }}</a> : {{ bookmark.desc }}</li>
+                  <li>
+                    <a href="{{ bookmark.site }}">{{ bookmark.title }}</a> : {{ bookmark.desc }}
+                    {% for tag in bookmark.tags %}<code> #{{ tag }} </code>{% endfor %}
+                  </li> 
               {% endfor %}
           </ul>
       </div>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ site.title }} - v3</title>
+    <link rel="stylesheet" href="{{ "/assets/css/v3.css" | relative_url }}">
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/papercss@1.9.2/dist/paper.min.css"
+    />
+  </head>
+  <body class="row flex-center">
+    <div class="">
+        <h1>Bookmarks</h1>
+        {% for category_hash in site.data %}
+          {% assign category = category_hash[1] %}
+          <div class="paper">
+              <h2> {{ category.title }}</h2>
+              <ul>
+                  {% for bookmark in category.bookmarks %}
+                      <li>
+                        <a href="{{ bookmark.site }}">{{ bookmark.title }}</a> : {{ bookmark.desc }}
+                        {% for tag in bookmark.tags %}<code> #{{ tag }} </code>{% endfor %}
+                      </li>
+                  {% endfor %}
+              </ul>
+          </div>
+        {% endfor %}
+    </div>
+  </body>
+</html>

@@ -21,8 +21,8 @@
     {% for category_hash in site.data %}
       {% assign category = category_hash[1] %}
       {%- assign bookmarks = category.bookmarks -%}
-      {% for item in bookmarks %}
-        {% for tag in item.tags %}
+      {% for bookmark in bookmarks %}
+        {% for tag in bookmark.tags %}
           {% assign collections = collections | push: tag %}
         {% endfor %}
       {% endfor %}
@@ -43,12 +43,12 @@
       {% for category_hash in site.data %}
         {% assign category = category_hash[1] %}
         {%- assign bookmarks = category.bookmarks -%}
-        {% for item in bookmarks %}
-        <li class="bookmark {% for tag in item.tags %}{{ tag }} {% endfor %} {% if item.tags == nil %} other {% endif %}">
-            <b><span class="title">{{ item.title }}</span></b>
-            <span class="link">- <a href="{{ item.site }}">{{ item.site }}</a></span> <br>
-            <i>{{ item.desc }}</i><br>
-            {% for tag in item.tags %}<code>#{{ tag }}</code> {% assign collection = collection | push: tag %}{% endfor %}
+        {% for bookmark in bookmarks %}
+        <li class="bookmark {% for tag in bookmark.tags %}{{ tag }} {% endfor %} {% if bookmark.tags == nil %} other {% endif %}">
+            <b><span class="title">{{ bookmark.title }}</span></b>
+            <span class="link">- <a href="{{ bookmark.site }}">{{ bookmark.site }}</a></span> <br>
+            <i>{{ bookmark.desc }}</i><br>
+            {% for tag in bookmark.tags %}<code>#{{ tag }}</code> {% assign collection = collection | push: tag %}{% endfor %}
         </li>
         {% endfor %}
       {% endfor %}
