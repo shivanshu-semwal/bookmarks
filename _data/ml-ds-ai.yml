@@ -4,44 +4,34 @@ bookmarks:
   site: http://mlwiki.org/index.php/Main_Page
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - wiki
 - title: kaggle
   site: https://www.kaggle.com/
   desc:  
   tags:
-  - ml-ds-ai
-- title: write essay
-  site: http://www.essaytyper.com/
-  desc:  
-  tags:
-  - ml-ds-ai
-- title: ucb
-  site: https://github.com/paldhous/ucb
-  desc:  
-  tags:
-  - ml-ds-ai
-- title: paldhous
-  site: https://github.com/paldhous
-  desc:  
-  tags:
-  - ml-ds-ai
+  - ml
+  - ds
 - title: ai text
   site: https://quillbot.com/
   desc:  
   tags:
-  - ml-ds-ai
+  - english
+  - ai
 - title: start [Machine Learning Engineering]
   site: http://www.mlebook.com/wiki/doku.php
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - book
 - title: start [The Hundred-Page Machine Learning Book]
   site: http://themlbook.com/wiki/doku.php
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - book
 - title: A Neural Network Playground
-  site: https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.09565&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&regularization_hide=true
+  site: https://playground.tensorflow.org/
   desc:  
   tags:
   - ml-ds-ai
@@ -84,18 +74,20 @@ bookmarks:
   site: https://stanford.edu/~shervine/teaching/cs-221/
   desc:  
   tags:
-  - ml-ds-ai
-- title: Guide  |  TensorFlow Core
+  - ml
+  - article
+- title: TensorFlow Core
   site: https://www.tensorflow.org/guide/
   desc:  
   tags:
-  - ml-ds-ai
-- title: Image classification  |  TensorFlow Core
+  - ml
+  - tensorflow
+- title: Image classification - TensorFlow Core
   site: https://www.tensorflow.org/tutorials/images/classification
   desc:  
   tags:
   - ml-ds-ai
-- title: tf.keras.utils.image_dataset_from_directory  |  TensorFlow v2.12.0
+- title: tf.keras.utils.image_dataset_from_directory - TensorFlow v2.12.0
   site: https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory
   desc:  
   tags:
@@ -105,7 +97,7 @@ bookmarks:
   desc:  
   tags:
   - ml-ds-ai
-- title: An Intuitive Explanation of Convolutional Neural Networks – Ujjwal Karn
+- title: An Intuitive Explanation of Convolutional Neural Networks - Ujjwal Karn
   site: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
   desc:  
   tags:
@@ -115,7 +107,7 @@ bookmarks:
   desc:  
   tags:
   - ml-ds-ai
-- title: Convolutional Neural Networks’ mathematics
+- title: Convolutional Neural Networks mathematics
   site: https://scribe.rip/convolutional-neural-networks-mathematics-1beb3e6447c0
   desc:  
   tags:
