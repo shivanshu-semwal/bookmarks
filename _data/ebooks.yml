@@ -20,7 +20,7 @@ bookmarks:
   desc:  
   tags:
   - ebooks
-- title: Anna’s Archive
+- title: Anna Archive
   site: https://annas-archive.org/
   desc:  
   tags:
@@ -34,4 +34,16 @@ bookmarks:
   site: https://1lib.in/
   desc:  
   tags:
+  - ebooks
+- title: Shadow library - Wikipedia
+  site: https://en.wikipedia.org/wiki/Shadow_library
+  desc:  
+  tags:
+  - wikipedia
+  - ebooks
+- title: Library Genesis - Wikipedia
+  site: https://en.wikipedia.org/wiki/Library_Genesis
+  desc:  
+  tags:
+  - wikipedia
   - ebooks

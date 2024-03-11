@@ -17,3 +17,24 @@ bookmarks:
   tags:
   - js
   - regex
+- title: Learn JavaScript - Full Course for Beginners - YouTube
+  site: https://www.youtube.com/watch?v=PkZNo7MFNFg
+  desc:  
+  tags:
+  - js
+- title: Eloquent JavaScript
+  site: https://eloquentjavascript.net/
+  desc:  
+  tags:
+  - js
+- title: Debuggex Online visual regex tester. JavaScript, Python, and PCRE.
+  site: https://www.debuggex.com/
+  desc:  
+  tags:
+  - js
+  - regex
+- title: JSHint, a JavaScript Code Quality Tool
+  site: https://jshint.com/
+  desc:  
+  tags:
+  - js

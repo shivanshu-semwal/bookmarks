@@ -5,21 +5,29 @@ bookmarks:
   desc:  
   tags:
   - ds-algo
+  - wiki
+- title: Dictionary of Algorithms and Data Structures
+  site: https://xlinux.nist.gov/dads/
+  desc:  
+  tags:
+  - ds-algo
+  - wiki
 - title: Open Encyclopedia of Parallel Algorithmic Features - Algowiki
   site: https://algowiki-project.org/en/Open_Encyclopedia_of_Parallel_Algorithmic_Features
   desc:  
   tags:
   - ds-algo
-- title: Striver’s SDE Sheet – Top Coding Interview Problems
+  - wiki
+- title: Striver SDE Sheet - Top Coding Interview Problems
   site: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
   desc:  
   tags:
-  - ds-algo
+  - ds-algo-list
 - title: leetcode
   site: https://leetcode.com/
   desc:  
   tags:
-  - ds-algo
+  - ds-algo-site
 - title: submissions
   site: https://leetcode.com/problems/car-pooling/submissions/
   desc:  
@@ -99,104 +107,116 @@ bookmarks:
   site: https://www.enjoyalgorithms.com/coding-interview/
   desc:  
   tags:
-  - learn
+  - ds-algo-learn
 - title: lintcode
   site: https://www.lintcode.com/
   desc:  
   tags:
-  - learn
+  - ds-algo-learn
 - title: josephus-problem
   site: https://practice.geeksforgeeks.org/problems/josephus-problem/1/
   desc:  
   tags:
-  - learn
+  - ds-algo-learn
 - title: techdelight
   site: https://www.techiedelight.com/
   desc:  
   tags:
-  - learn
+  - ds-algo-learn
 - title: find-k-numbers-occurrences-given-array
   site: https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
   desc:  
   tags:
-  - learn
+  - ds-algo-learn
 - title: josephus-problem-set-1-a-on-solution
   site: https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/
   desc:  
   tags:
-  - learn
+  - ds-algo-learn
 - title: cp-algorithms.com
   site: https://cp-algorithms.com/
   desc:  
   tags:
-  - learn
+  - ds-algo-learn
 - title: events
   site: https://clist.by/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: codeforces
   site: https://codeforces.com/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: cses
   site: https://cses.fi/problemset/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: kattis
   site: https://open.kattis.com/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: project euler
   site: https://projecteuler.net/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: timus online judge
   site: https://acm.timus.ru/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: online judge
   site: https://onlinejudge.org/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: atcoder
   site: https://atcoder.jp/home
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: interviewbit
   site: https://www.interviewbit.com/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: spoj
   site: https://www.spoj.com/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: lovelace
   site: https://projectlovelace.net/problems/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: topcoder
   site: https://www.topcoder.com/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: hackerrank
   site: https://www.hackerrank.com/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
 - title: codechef
   site: https://www.codechef.com/
   desc:  
   tags:
-  - sites
+  - ds-algo-practice
+- title: Algorithm Archive · Arcane Algorithm Archive
+  site: https://www.algorithm-archive.org/
+  desc:  
+  tags:
+  - ds-algo
+  - wiki
+- title: Advanced Algorithms (COMPSCI 224) - YouTube
+  site: https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf
+  desc:  
+  tags:
+  - ds-algo-learn
+  - video

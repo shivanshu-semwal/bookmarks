@@ -20,23 +20,70 @@ bookmarks:
   desc:  
   tags:
   - math
-- title: calculator
+- title: all in one calculator
   site: https://www.mathway.com/
   desc:  
   tags:
   - calculators
-- title: calculator
+- title: derivative calculator
   site: https://www.derivative-calculator.net/
-  desc:  
+  desc: derivation
   tags:
   - calculators
 - title: calculator
   site: https://keisan.casio.com/menu/system/000000000980
-  desc:  
+  desc: casio
   tags:
   - calculators
 - title: calculator
   site: https://www.symbolab.com/solver/series-calculator
-  desc:  
+  desc: integrate, differentiate
   tags:
   - calculators
+- title: The Art of Integration | Physics Forums
+  site: https://www.physicsforums.com/insights/the-art-of-integration/
+  desc:  
+  tags:
+  - math
+- title: Generating function - Wikipedia
+  site: https://en.wikipedia.org/wiki/Generating_function
+  desc:  
+  tags:
+  - wikipedia
+  - math
+- title: Formal methods - Wikipedia
+  site: https://en.wikipedia.org/wiki/Formal_methods
+  desc:  
+  tags:
+  - wikipedia
+  - math
+- title: Mathematical Alphanumeric Symbols - Wikipedia
+  site: https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols
+  desc:  
+  tags:
+  - wikipedia
+  - math
+- title: Glossary of mathematical symbols - Wikipedia
+  site: https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols
+  desc:  
+  tags:
+  - wikipedia
+  - math
+- title: On-Line_Encyclopedia_of_Integer_Sequences
+  site: https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences
+  desc:  
+  tags:
+  - wikipedia
+  - math
+- title: Square root of 2 - Wikipedia
+  site: https://en.wikipedia.org/wiki/Square_root_of_2#Constructive_proof
+  desc:  
+  tags:
+  - wikipedia
+  - math
+- title: List of logic symbols - Wikipedia
+  site: https://en.wikipedia.org/wiki/List_of_logic_symbols
+  desc:  
+  tags:
+  - wikipedia
+  - math

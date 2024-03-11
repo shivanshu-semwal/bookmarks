@@ -2,11 +2,16 @@ title: Edit Images
 bookmarks:
 - title: nordify image
   site: https://ign.schrodinger-hat.it/
-  desc:  
+  desc: apply nord pallet on images
   tags:
   - images-filter
 - title: anime converter
   site: https://animefilter.com/
-  desc:  
+  desc: apply anime filter on images
+  tags:
+  - images-filter
+- title: Palette Switcher
+  site: https://paletteswitcher.bruyant.xyz/
+  desc: pick palette from images
   tags:
   - images-filter

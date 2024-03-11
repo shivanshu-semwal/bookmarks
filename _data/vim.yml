@@ -15,3 +15,8 @@ bookmarks:
   desc:  
   tags:
   - vim
+- title: VimGolf - real Vim
+  site: https://www.vimgolf.com/challenges/5ba020f91abf2d000951055c
+  desc:  
+  tags:
+  - vim

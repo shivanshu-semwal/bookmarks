@@ -10,16 +10,6 @@ bookmarks:
   desc:  
   tags:
   - tools
-- title: Debuggex Online visual regex tester. JavaScript, Python, and PCRE.
-  site: https://www.debuggex.com/
-  desc:  
-  tags:
-  - tools
-- title: math latex
-  site: https://www.hostmath.com/
-  desc:  
-  tags:
-  - tools
 - title: to markdown
   site: http://euangoddard.github.io/clipboard2markdown/
   desc:  
@@ -27,11 +17,6 @@ bookmarks:
   - tools
 - title: Programming Fonts - Test Drive
   site: https://www.programmingfonts.org/
-  desc:  
-  tags:
-  - tools
-- title: VimGolf - real Vim
-  site: https://www.vimgolf.com/challenges/5ba020f91abf2d000951055c
   desc:  
   tags:
   - tools
@@ -60,7 +45,7 @@ bookmarks:
   desc:  
   tags:
   - tools
-- title: Keyboard shortcuts, enumerated ‒ defkey
+- title: Keyboard shortcuts, enumerated defkey
   site: https://defkey.com/
   desc:  
   tags:
@@ -80,13 +65,45 @@ bookmarks:
   desc:  
   tags:
   - tools
-- title: GitHunt – Trending Github Repositories
+- title: GitHunt Trending Github Repositories
   site: https://kamranahmed.info/githunt/
   desc:  
   tags:
   - tools
 - title: bookmarklet-creator
   site: https://mrcoles.com/bookmarklet/
+  desc:  
+  tags:
+  - tools
+- title: online compilers
+  site: https://rextester.com/
+  desc: run code online
+  tags:
+  - compilers
+  - tools
+- title: reddit to markdown
+  site: https://farnots.github.io/RedditToMarkdown/
+  desc:  
+  tags:
+  - converter
+  - tools
+- title: Whoogle Search
+  site: https://whoogle.privacydev.net/
+  desc:  
+  tags:
+  - tools
+- title: raindrop
+  site: https://app.raindrop.io/my/0
+  desc:  
+  tags:
+  - tools
+- title: excalidraw
+  site: https://excalidraw.com/
+  desc:  
+  tags:
+  - tools
+- title: Etherpad
+  site: https://etherpad.wikimedia.org/
   desc:  
   tags:
   - tools

@@ -18,13 +18,13 @@ bookmarks:
   tags:
   - english
   - ai
-- title: start [Machine Learning Engineering]
+- title: Machine Learning Engineering
   site: http://www.mlebook.com/wiki/doku.php
   desc:  
   tags:
   - ml
   - book
-- title: start [The Hundred-Page Machine Learning Book]
+- title: The Hundred-Page Machine Learning Book
   site: http://themlbook.com/wiki/doku.php
   desc:  
   tags:
@@ -34,42 +34,20 @@ bookmarks:
   site: https://playground.tensorflow.org/
   desc:  
   tags:
-  - ml-ds-ai
-- title: algo in all languages
-  site: http://rosettacode.org/
-  desc:  
-  tags:
-  - ml-ds-ai
-- title: cheat sheet
-  site: http://cht.sh/
-  desc:  
-  tags:
-  - ml-ds-ai
-- title: site for programmers
-  site: https://github.com/sdmg15/Best-websites-a-programmer-should-visit
-  desc:  
-  tags:
-  - ml-ds-ai
+  - ml
+  - tensorflow
 - title: Machine Learning Mastery
   site: https://machinelearningmastery.com/
   desc:  
   tags:
-  - ml-ds-ai
-- title: James Koppel
-  site: https://www.jameskoppel.com/
-  desc:  
-  tags:
-  - ml-ds-ai
-- title: Path-Sensitive
-  site: https://www.pathsensitive.com/
-  desc:  
-  tags:
-  - ml-ds-ai
+  - ml
+  - book
 - title: da-algo playlist
   site: https://www.youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - video
 - title: Teaching - CS 221
   site: https://stanford.edu/~shervine/teaching/cs-221/
   desc:  
@@ -86,39 +64,47 @@ bookmarks:
   site: https://www.tensorflow.org/tutorials/images/classification
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - tensorflow
 - title: tf.keras.utils.image_dataset_from_directory - TensorFlow v2.12.0
   site: https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - tensorflow
 - title: Feedforward Neural Networks (FNN) - Deep Learning Wizard
   site: https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - fnn
 - title: An Intuitive Explanation of Convolutional Neural Networks - Ujjwal Karn
   site: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - cnn
 - title: 5 Popular CNN Architectures Clearly Explained and Visualized
   site: https://scribe.bus-hit.me/5-most-well-known-cnn-architectures-visualized-af76f1f0065e
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - cnn
 - title: Convolutional Neural Networks mathematics
   site: https://scribe.rip/convolutional-neural-networks-mathematics-1beb3e6447c0
   desc:  
   tags:
-  - ml-ds-ai
-- title: Poe's Law - RationalWiki
-  site: https://rationalwiki.org/wiki/Poe's_Law
+  - ml
+  - cnn
+- title: SankeyMATIC Make Beautiful Flow Diagrams
+  site: https://sankeymatic.com/
   desc:  
   tags:
-  - ml-ds-ai
-- title: Google Scholar
-  site: https://scholar.google.com/
+  - ds
+  - visualization
+- title: Stanford CS229 Machine Learning Full Course taught by Andrew Ng | Autumn 2018 - YouTube
+  site: https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
   desc:  
   tags:
-  - ml-ds-ai
+  - ml
+  - video

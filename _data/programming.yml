@@ -5,11 +5,7 @@ bookmarks:
   desc:  
   tags:
   - programming
-- title: Dictionary of Algorithms and Data Structures
-  site: https://xlinux.nist.gov/dads/
-  desc:  
-  tags:
-  - programming
+  - wiki
 - title: Programming Language Principles and Paradigms
   site: https://eecs390.github.io/notes/
   desc:  
@@ -25,8 +21,14 @@ bookmarks:
   desc:  
   tags:
   - programming
-- title: JSHint, a JavaScript Code Quality Tool
-  site: https://jshint.com/
+  - cloud
+- title: algo in all languages
+  site: http://rosettacode.org/
   desc:  
   tags:
   - programming
+- title: cheat sheet
+  site: http://cht.sh/
+  desc:  
+  tags:
+  - cheat-sheet

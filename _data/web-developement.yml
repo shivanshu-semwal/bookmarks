@@ -10,6 +10,7 @@ bookmarks:
   desc:  
   tags:
   - web-development
+  - regex
 - title: hot
   site: https://www.dwitter.net/hot
   desc:  
@@ -30,6 +31,7 @@ bookmarks:
   desc:  
   tags:
   - web-development
+  - css
 - title: collectui.com
   site: https://collectui.com/
   desc:  
@@ -60,11 +62,13 @@ bookmarks:
   desc:  
   tags:
   - web-development
+  - ui/ux
 - title: wireframe template
   site: https://sneakpeekit.com/
   desc:  
   tags:
   - web-development
+  - ui/ux
 - title: wireframe web
   site: https://balsamiq.cloud/
   desc:  
@@ -75,3 +79,19 @@ bookmarks:
   desc:  
   tags:
   - web-development
+- title: Learn React JS - Full Course for Beginners - Tutorial 2019 - YouTube
+  site: https://www.youtube.com/watch?v=DLX62G4lc44
+  desc:  
+  tags:
+  - web-development
+- title: Python Django Web Framework - Full Course for Beginners - YouTube
+  site: https://www.youtube.com/watch?v=F5mRW0jo-U4
+  desc:  
+  tags:
+  - web-development
+- title: Before we begin - HTTP protocol and the web
+  site: https://codexpanse.com/courses/http/Before-we-begin.html
+  desc:  
+  tags:
+  - web-development
+  - article
