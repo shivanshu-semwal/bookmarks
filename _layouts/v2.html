@@ -47,7 +47,7 @@
         <li class="bookmark {% for tag in bookmark.tags %}{{ tag }} {% endfor %} {% if bookmark.tags == nil %} other {% endif %}">
             <b><span class="title">{{ bookmark.title }}</span></b>
             <span class="link">- <a href="{{ bookmark.site }}">{{ bookmark.site }}</a></span> <br>
-            <i>{{ bookmark.desc }}</i><br>
+            {% if bookmark.desc %}<i>{{ bookmark.desc }}</i><br>{% endif %}
             {% for tag in bookmark.tags %}<code>#{{ tag }}</code> {% assign collection = collection | push: tag %}{% endfor %}
         </li>
         {% endfor %}
