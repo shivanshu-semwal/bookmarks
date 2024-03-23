@@ -95,3 +95,9 @@ bookmarks:
   tags:
   - web-development
   - article
+- title: Google Web Dev
+  site: https://web.dev/
+  desc: learning material
+  tags:
+  - web-development
+  - learning
