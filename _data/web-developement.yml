@@ -101,3 +101,51 @@ bookmarks:
   tags:
   - web-development
   - learning
+- title: Build you own X
+  site: https://github.com/codecrafters-io/build-your-own-x
+  desc: projects list
+  tags:
+    - development
+- title: Ruby Quiz
+  site: http://rubyquiz.com/
+  desc: quizes on ruby
+- title: books on open source projects
+  site: https://aosabook.org/en/index.html
+  desc: how open source projects are made
+  tags:
+    - open-source
+- title: what cs majors should know
+  site: https://matt.might.net/articles/what-cs-majors-should-know/
+  desc: what every cs major should know, article
+  tags:
+    - blog
+    - development
+- title: c testing framework
+  site: https://www.throwtheswitch.org/
+  desc: 
+  tags:
+    - c
+- title: python cheatsheet
+  site: https://www.pythoncheatsheet.org/
+  tags:
+    - python
+    - cheatsheet
+- title: javascript cheatsheet
+  site: https://www.javascriptcheatsheet.org/
+  tags:
+    - cheatsheet
+    - JS
+- title: jskatas
+  site: https://jskatas.org/
+  tags:
+    - javascript
+- title: angular
+  site: https://angular.dev/overview
+  tags:
+    - angular
+    - javascript
+- title: typescript
+  site: https://www.typescriptlang.org/docs/handbook/intro.html
+  tags:
+    - typescript
+    - javascript
